@@ -1,0 +1,17 @@
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\bin\Debug\net6.0-windows\InvestmentCalc.exe
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\bin\Debug\net6.0-windows\InvestmentCalc.deps.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\bin\Debug\net6.0-windows\InvestmentCalc.runtimeconfig.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\bin\Debug\net6.0-windows\InvestmentCalc.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\bin\Debug\net6.0-windows\InvestmentCalc.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.csproj.AssemblyReference.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.csproj.GenerateResource.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.AssemblyInfoInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.AssemblyInfo.cs
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.csproj.CoreCompileInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\refint\InvestmentCalc.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.genruntimeconfig.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\ref\InvestmentCalc.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\InvestmentCalc\obj\Debug\net6.0-windows\InvestmentCalc.CalcForm.resources

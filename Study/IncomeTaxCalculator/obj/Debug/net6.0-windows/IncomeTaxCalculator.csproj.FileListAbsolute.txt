@@ -1,0 +1,17 @@
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\bin\Debug\net6.0-windows\IncomeTaxCalculator.exe
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\bin\Debug\net6.0-windows\IncomeTaxCalculator.deps.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\bin\Debug\net6.0-windows\IncomeTaxCalculator.runtimeconfig.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\bin\Debug\net6.0-windows\IncomeTaxCalculator.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\bin\Debug\net6.0-windows\IncomeTaxCalculator.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.Form1.resources
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.csproj.GenerateResource.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.AssemblyInfo.cs
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\refint\IncomeTaxCalculator.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\IncomeTaxCalculator.genruntimeconfig.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\IncomeTaxCalculator\obj\Debug\net6.0-windows\ref\IncomeTaxCalculator.dll

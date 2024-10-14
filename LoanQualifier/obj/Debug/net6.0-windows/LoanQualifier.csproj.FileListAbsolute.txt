@@ -1,0 +1,17 @@
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\bin\Debug\net6.0-windows\LoanQualifier.exe
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\bin\Debug\net6.0-windows\LoanQualifier.deps.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\bin\Debug\net6.0-windows\LoanQualifier.runtimeconfig.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\bin\Debug\net6.0-windows\LoanQualifier.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\bin\Debug\net6.0-windows\LoanQualifier.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.csproj.AssemblyReference.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.Form.resources
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.csproj.GenerateResource.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.AssemblyInfoInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.AssemblyInfo.cs
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.csproj.CoreCompileInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\refint\LoanQualifier.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\LoanQualifier.genruntimeconfig.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Mid-Semester Test\LoanQualifier\obj\Debug\net6.0-windows\ref\LoanQualifier.dll

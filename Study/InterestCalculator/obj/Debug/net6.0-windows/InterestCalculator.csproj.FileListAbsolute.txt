@@ -1,0 +1,17 @@
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\bin\Debug\net6.0-windows\InterestCalculator.exe
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\bin\Debug\net6.0-windows\InterestCalculator.deps.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\bin\Debug\net6.0-windows\InterestCalculator.runtimeconfig.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\bin\Debug\net6.0-windows\InterestCalculator.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\bin\Debug\net6.0-windows\InterestCalculator.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.csproj.AssemblyReference.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.interestCalculator.resources
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.csproj.GenerateResource.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.AssemblyInfoInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.AssemblyInfo.cs
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\refint\InterestCalculator.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\InterestCalculator.genruntimeconfig.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\InterestCalculator\obj\Debug\net6.0-windows\ref\InterestCalculator.dll

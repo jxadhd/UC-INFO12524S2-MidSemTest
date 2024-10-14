@@ -1,0 +1,17 @@
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\bin\Debug\net6.0-windows\DistanceCalc.exe
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\bin\Debug\net6.0-windows\DistanceCalc.deps.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\bin\Debug\net6.0-windows\DistanceCalc.runtimeconfig.json
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\bin\Debug\net6.0-windows\DistanceCalc.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\bin\Debug\net6.0-windows\DistanceCalc.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.csproj.AssemblyReference.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.Form1.resources
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.csproj.GenerateResource.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.AssemblyInfoInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.AssemblyInfo.cs
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.csproj.CoreCompileInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\refint\DistanceCalc.dll
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\DistanceCalc.genruntimeconfig.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\MidTermTest\Study\DistanceCalc\obj\Debug\net6.0-windows\ref\DistanceCalc.dll
